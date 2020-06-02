@@ -1,0 +1,45 @@
+c:\users\win7\documents\visual studio 2010\Projects\09. TSA projekat\09. TSA projekat\bin\Debug\_09.TSA_projekat.exe
+c:\users\win7\documents\visual studio 2010\Projects\09. TSA projekat\09. TSA projekat\bin\Debug\_09.TSA_projekat.pdb
+c:\users\win7\documents\visual studio 2010\Projects\09. TSA projekat\09. TSA projekat\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\win7\documents\visual studio 2010\Projects\09. TSA projekat\09. TSA projekat\obj\x86\Debug\_09.TSA_projekat.Properties.Resources.resources
+c:\users\win7\documents\visual studio 2010\Projects\09. TSA projekat\09. TSA projekat\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\win7\documents\visual studio 2010\Projects\09. TSA projekat\09. TSA projekat\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\win7\documents\visual studio 2010\Projects\09. TSA projekat\09. TSA projekat\obj\x86\Debug\_09.TSA_projekat.exe
+c:\users\win7\documents\visual studio 2010\Projects\09. TSA projekat\09. TSA projekat\obj\x86\Debug\_09.TSA_projekat.pdb
+c:\users\win7\documents\visual studio 2010\Projects\09. TSA projekat\09. TSA projekat\obj\x86\Debug\_09.TSA_projekat.Home.resources
+c:\users\win7\documents\visual studio 2010\Projects\09. TSA projekat\09. TSA projekat\obj\x86\Debug\_09.TSA_projekat.Resursi.resources
+c:\users\win7\documents\visual studio 2010\Projects\09. TSA projekat\09. TSA projekat\obj\x86\Debug\_09.TSA_projekat.form_Dijeljenje.resources
+c:\users\win7\documents\visual studio 2010\Projects\09. TSA projekat\09. TSA projekat\obj\x86\Debug\_09.TSA_projekat.form_Evaluacija.resources
+c:\users\win7\documents\visual studio 2010\Projects\09. TSA projekat\09. TSA projekat\obj\x86\Debug\_09.TSA_projekat.form_PointWise.resources
+c:\users\win7\documents\visual studio 2010\Projects\09. TSA projekat\09. TSA projekat\obj\x86\Debug\_09.TSA_projekat.form_Interopolation.resources
+c:\users\win7\documents\visual studio 2010\Projects\09. TSA projekat\09. TSA projekat\obj\x86\Debug\_09.TSA_projekat.form_Rekompozicija.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\09. TSA projekat 2.0\09. TSA projekat\obj\x86\Debug\_09.TSA_projekat.exe
+C:\Users\win7\Documents\Visual Studio 2010\Projects\09. TSA projekat 2.0\09. TSA projekat\obj\x86\Debug\_09.TSA_projekat.pdb
+C:\Users\win7\Documents\Visual Studio 2010\Projects\09. TSA projekat 2.0\09. TSA projekat\bin\Debug\_09.TSA_projekat.exe
+C:\Users\win7\Documents\Visual Studio 2010\Projects\09. TSA projekat 2.0\09. TSA projekat\bin\Debug\_09.TSA_projekat.pdb
+C:\Users\win7\Documents\Visual Studio 2010\Projects\09. TSA projekat 2.0\09. TSA projekat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\win7\Documents\Visual Studio 2010\Projects\09. TSA projekat 2.0\09. TSA projekat\obj\x86\Debug\_09.TSA_projekat.form_Dijeljenje.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\09. TSA projekat 2.0\09. TSA projekat\obj\x86\Debug\_09.TSA_projekat.form_Evaluacija.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\09. TSA projekat 2.0\09. TSA projekat\obj\x86\Debug\_09.TSA_projekat.form_Interopolation.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\09. TSA projekat 2.0\09. TSA projekat\obj\x86\Debug\_09.TSA_projekat.form_PointWise.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\09. TSA projekat 2.0\09. TSA projekat\obj\x86\Debug\_09.TSA_projekat.form_Rekompozicija.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\09. TSA projekat 2.0\09. TSA projekat\obj\x86\Debug\_09.TSA_projekat.Home.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\09. TSA projekat 2.0\09. TSA projekat\obj\x86\Debug\_09.TSA_projekat.Properties.Resources.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\09. TSA projekat 2.0\09. TSA projekat\obj\x86\Debug\_09.TSA_projekat.Resursi.resources
+C:\Users\win7\Documents\Visual Studio 2010\Projects\09. TSA projekat 2.0\09. TSA projekat\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\win7\Documents\Visual Studio 2010\Projects\09. TSA projekat 2.0\09. TSA projekat\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\09. TSA projekat 2.0\09. TSA projekat\obj\x86\Debug\_09.TSA_projekat.exe
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\09. TSA projekat 2.0\09. TSA projekat\obj\x86\Debug\_09.TSA_projekat.pdb
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\09. TSA projekat 2.0\09. TSA projekat\bin\Debug\_09.TSA_projekat.exe
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\09. TSA projekat 2.0\09. TSA projekat\bin\Debug\_09.TSA_projekat.pdb
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\09. TSA projekat 2.0\09. TSA projekat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\09. TSA projekat 2.0\09. TSA projekat\obj\x86\Debug\_09.TSA_projekat.form_Dijeljenje.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\09. TSA projekat 2.0\09. TSA projekat\obj\x86\Debug\_09.TSA_projekat.form_Evaluacija.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\09. TSA projekat 2.0\09. TSA projekat\obj\x86\Debug\_09.TSA_projekat.form_Interopolation.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\09. TSA projekat 2.0\09. TSA projekat\obj\x86\Debug\_09.TSA_projekat.form_PointWise.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\09. TSA projekat 2.0\09. TSA projekat\obj\x86\Debug\_09.TSA_projekat.form_Rekompozicija.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\09. TSA projekat 2.0\09. TSA projekat\obj\x86\Debug\_09.TSA_projekat.Home.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\09. TSA projekat 2.0\09. TSA projekat\obj\x86\Debug\_09.TSA_projekat.Properties.Resources.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\09. TSA projekat 2.0\09. TSA projekat\obj\x86\Debug\_09.TSA_projekat.Resursi.resources
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\09. TSA projekat 2.0\09. TSA projekat\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aco\Documents\Visual Studio 2010\Projects\09. TSA projekat 2.0\09. TSA projekat\obj\x86\Debug\GenerateResource.write.1.tlog
